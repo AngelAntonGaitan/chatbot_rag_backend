@@ -1,4 +1,4 @@
-# 🌸 Chatbot RAG Backend con FastAPI
+# 🤖 Chatbot RAG Backend con FastAPI
 
 API RESTful desarrollada con **FastAPI** para realizar consultas documentales inteligentes (Retrieval-Augmented Generation) combinando una base vectorial local y el modelo **Google Gemini**.
 
